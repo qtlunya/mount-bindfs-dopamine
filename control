@@ -1,0 +1,9 @@
+Package: mount_bindfs
+Name: mount_bindfs
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: alexia
+Author: alexia
+Section: System
+Tag: role::hacker
